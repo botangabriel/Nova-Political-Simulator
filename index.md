@@ -12,6 +12,14 @@ In order to play on this site you must register, needing an email address, passw
 
 Work in progress (I plan to add info on how to get started on passing bills and others.
 
+# [Nations](https://botangabriel.github.io/Nova-Political-Simulator/nations)
+
+See the nations of the world right here!
+
+# [Map](https://botangabriel.github.io/Nova-Political-Simulator/map)
+
+The map of Nova world right here!
+
 # Useful Links
 
 [Wiki page](https://nova-political-simulator.fandom.com/wiki/Nova_Political_Simulator_Wiki)
