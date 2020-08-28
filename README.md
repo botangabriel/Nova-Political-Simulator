@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to Nova Political Simulator
 
-You can use the [editor on GitHub](https://github.com/botangabriel/Nova-Political-Simulator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+What is this? This is an online political simulator built by me, Gabriel. This is my first project and I took heavy inspiration from the many online simulators and RP based games. This game is oriented around a fictional world formed of many nations in which players can run in nations as parties with various political ideologies in hope to win elections and implement own views on nations. Players as well can [make posts onto the official forum](https://nova-polsim.freeforums.net/) if they so wish. These posts can be anything from newspaper posts, to meetings and treaties, to civil wars or wars, all of course in concordance with the rules of Nova Political Simulator.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project started with intetion to have fun and try my best to manage an online game of my own with own rules and nice community. Nova Political Simulator is in it's infancy and many things are to be fixed and improved over time. I plan to improve this to the level that in-game mechanics can cover parts of the RP, such as randomly generated elections, tax revenue and budget deficit, as well population and GDP.
 
-### Markdown
+The world players are playing in is called Nova, a world with fictional nations and cultures derived from the real life counterparts, with twists and various additions. This project was started on 28 august, 2020. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How to start
 
-```markdown
-Syntax highlighted code block
+In order to play on this site you must register, needing an email address, password and username, as well the account to be the only one, multi accounting not being permitted as of yet and will be punished by the moderators. 
 
-# Header 1
-## Header 2
-### Header 3
+Work in progress (I plan to add info on how to get started on passing bills and others.
 
-- Bulleted
-- List
+# Useful Links
 
-1. Numbered
-2. List
+[Wiki page](https://nova-political-simulator.fandom.com/wiki/Nova_Political_Simulator_Wiki)
+[Discord server](https://discord.gg/wPzWnjy)
+[Forum](https://nova-polsim.freeforums.net/)
 
-**Bold** and _Italic_ and `Code` text
+# Contact for Support
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/botangabriel/Nova-Political-Simulator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+gabi.botan4@yahoo.com
+Gabriel20#0819
